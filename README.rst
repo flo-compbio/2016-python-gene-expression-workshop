@@ -5,7 +5,7 @@ This repository contains data and Jupyter notebooks for the `2016 "Gene Expressi
 
 You can read the notebooks (including interactive figures) online using nbviewer:
 
-- `Module 1`__.
+- `Module 1`__
 
 __ workshop_
 __ nbviewer_module1_
