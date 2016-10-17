@@ -1,7 +1,7 @@
 README
 ======
 
-This repository contains data and Jupyter notebooks for the `2016 "Gene Expression Analysis in Python" workhop`__.
+This repository contains data and Jupyter notebooks for the `2016 "Gene Expression Analysis in Python" workshop`__.
 
 You can view the notebooks online (including interactive figures) using nbviewer:
 
