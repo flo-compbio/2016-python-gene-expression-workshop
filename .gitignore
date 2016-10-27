@@ -1,10 +1,11 @@
 # project-specific files
+.ipynb_checkpoints/
 videos/
 /misc/
 /output/
 /offline_work/
 /Module2/
-/Module3/
+/Module3/04*
 /Module4/
 
 # sphinx docs
